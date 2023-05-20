@@ -27,8 +27,8 @@
 *********************************************************/
 
 
-#ifndef CTPL_H_INCLUDED
-#define CTPL_H_INCLUDED
+#ifndef __CTPL_STL_THREAD_POOL__
+#define __CTPL_STL_THREAD_POOL__
 
 #include <functional>
 #include <thread>

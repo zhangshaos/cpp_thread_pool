@@ -18,8 +18,8 @@
  *********************************************************/
 
 
-#ifndef __ctpl_thread_pool_H__
-#define __ctpl_thread_pool_H__
+#ifndef __CTPL_THREAD_POOL_H__
+#define __CTPL_THREAD_POOL_H__
 
 #include <functional>
 #include <thread>
@@ -236,5 +236,5 @@ namespace ctpl {
 
 }
 
-#endif // __ctpl_thread_pool_H__
+#endif // __CTPL_THREAD_POOL_H__
 
